@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab03_gps_1</string>
+
+    <string name="gps_value">
+        Date/time:  %1$s,
+    </string>
+</resources>
